@@ -73,13 +73,16 @@ Note : if we want to compare multiple models, the preprocessing of the data will
 ## Organization within the team
 
 A way to organize the team would be to have one of us doing the data merging and preprocessing, another to split the datasets and train/test the models. The last one would gather the results and do the visualization part. Obviously we will help each other for each part of the milestone. Here, is a list of each task splitted among each student along the timeline
+
 Student 1 :  
 * Get every dataset
 * Merge datasets
 * Preprocessing and feature calculation
+
 Student 2:  
 * Split dataset 
 * Train and test models
+
 Student 3:  
 * Get results and create visualization.
 
