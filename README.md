@@ -7,7 +7,7 @@ The original paper [1] presents a dataset providing food consumption habits acco
 [2] Payne, Rupert A., and Gary A. Abel. "UK indices of multiple deprivation—a way to make comparisons across constituent countries easier." Health Stat Q 53, no. 22 (2012): 2015-2016.
 
 ## Research Questions:
-Which pair of features from consumption habits, deprivation, covid-19 deaths are most efficient at predicting the third and under what conditions ?
+Which pair of features from consumption habits, deprivation, covid-19 deaths are most efficient at predicting the third and under what conditions ?  
 What are the differences in performance of predictive methods used in interchangeably predictive features in this situation ?
 
 
